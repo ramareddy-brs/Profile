@@ -1,0 +1,72 @@
+.profile-container {
+    margin: 20px;
+}
+
+.head1 {
+    margin-left: 30px;
+}
+.education-text {
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+}
+h1 {
+    display: inline;
+}
+header {
+    margin: 40px;
+}
+header span {
+    margin-left: 50px;
+}
+.horizontal-line {
+   margin-left: 50px;
+   margin-bottom: 20px;
+}
+article h1 {
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 50px;
+}
+.unordered-list {
+    list-style-type: none;
+}
+li {
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.list-item1 {
+    color: #414FF0;
+}
+.list-item2 {
+    color: #CDC3D9;
+}
+.list-item3 {
+    color: #262226;
+}
+.paragraph1 {
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10px;
+    font-weight: bold;
+    color: #414FF0;
+    margin-left: 50px;
+}
+.paragraph2 {
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10px;
+    font-weight: bold;
+    color: #262226;
+    margin-left: 50px;
+}
+aside section{
+    display: inline-block;
+}
+#rightSideSection {
+    margin-left: 100px;
+}
