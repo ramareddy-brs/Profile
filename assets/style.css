@@ -1,14 +1,12 @@
-.profile-container {
-    margin: 20px;
-}
-
-.head1 {
-    margin-left: 30px;
-}
 .education-text {
     font-family: "Roboto";
     font-size: 20px;
     font-weight: bold;
+}
+header {
+    border-bottom: 1px dashed #ddd;
+    border-top: 1px dashed #ddd;
+    padding: 12px;
 }
 h1 {
     display: inline;
@@ -17,7 +15,7 @@ header {
     margin: 40px;
 }
 header span {
-    margin-left: 50px;
+    margin-left: 90px;
 }
 .horizontal-line {
    margin-left: 50px;
@@ -38,6 +36,7 @@ li {
     margin-left: 10px;
     font-weight: bold;
     margin-bottom: 5px;
+    line-height: 20px;
 }
 .list-item1 {
     color: #414FF0;
@@ -69,4 +68,19 @@ aside section{
 }
 #rightSideSection {
     margin-left: 100px;
+}
+.wrapper {
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px 0;
+    position: relative;
+    border-top: 1px solid #eaeaea;
+    padding: 25px;
+    margin: 20px auto;
+    overflow: hidden;
+    max-width: 960px;
+}
+i {
+    padding-right: 10px;
+    margin: auto;
 }
